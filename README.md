@@ -3,7 +3,7 @@ The ML Models I created while practicing so may not be very accurate but part of
 
 List:
 
-1) Fake News Prediction
+*** 1) Fake News Prediction ***
 - Logistic Regression
 - Tfidf Vectorizer
 - Stemming
