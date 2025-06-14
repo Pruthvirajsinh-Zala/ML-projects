@@ -7,3 +7,11 @@ List:
 - Logistic Regression
 - Tfidf Vectorizer
 - Stemming
+
+**2) Rock VS Mine Prediction** 
+- Logistic Regression
+- Prediction System
+
+**3) Diabetes Prediction** 
+- Support Vector Machine
+
