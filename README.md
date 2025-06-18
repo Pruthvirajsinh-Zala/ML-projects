@@ -13,5 +13,5 @@ List:
 - Prediction System
 
 **3) Diabetes Prediction** 
-- Support Vector Machine
+- Support Vector Machine 
 
