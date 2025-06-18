@@ -15,3 +15,8 @@ List:
 **3) Diabetes Prediction** 
 - Support Vector Machine 
 
+**4) House Price Prediction**
+- XGBoost Regressor
+- Heatmaps
+- R Square Error
+- Mean Absolute Error
