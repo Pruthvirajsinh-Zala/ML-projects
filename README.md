@@ -20,3 +20,5 @@ List:
 - Heatmaps
 - R Square Error
 - Mean Absolute Error
+
+**5) Loan Status Prediction**
