@@ -23,3 +23,4 @@ List:
 
 **5) Loan Status Prediction**
 - Seaborn Countplots
+- Support Vector Machines
