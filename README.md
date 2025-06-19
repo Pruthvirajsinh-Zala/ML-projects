@@ -22,3 +22,4 @@ List:
 - Mean Absolute Error
 
 **5) Loan Status Prediction**
+- Seaborn Countplots
