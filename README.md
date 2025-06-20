@@ -28,3 +28,8 @@ List:
 **6) Car Price Prediction**
 - Linear Regression
 - Lasso Regression
+
+**7) Gold Price Prediction**
+- correlation
+- distplot
+- Random Forest Regressor
