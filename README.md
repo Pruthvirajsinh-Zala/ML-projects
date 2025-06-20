@@ -33,3 +33,6 @@ List:
 - correlation
 - distplot
 - Random Forest Regressor
+
+**8) Heart Dieases Prediction**
+- Logistic Regression
