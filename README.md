@@ -24,3 +24,7 @@ List:
 **5) Loan Status Prediction**
 - Seaborn Countplots
 - Support Vector Machines
+
+**6) Car Price Prediction**
+- Linear Regression
+- Lasso Regression
