@@ -36,3 +36,7 @@ List:
 
 **8) Heart Dieases Prediction**
 - Logistic Regression
+
+**9) Credit Card Fraud Detection**
+- Logistic Regression
+- Under-Sampling
