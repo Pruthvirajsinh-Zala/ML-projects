@@ -40,3 +40,8 @@ List:
 **9) Credit Card Fraud Detection**
 - Logistic Regression
 - Under-Sampling
+
+**10) Medical Insurance Cost Prediction**
+- Linear Regression
+- distplot
+- countplot
