@@ -45,3 +45,7 @@ List:
 - Linear Regression
 - distplot
 - countplot
+
+**11) Big Mart Sales Prediction**
+- XGBoostRegressor
+- Pivot Table
