@@ -50,3 +50,4 @@ List:
 - XGBoostRegressor
 - Pivot Table
 - Mean, Mode To replace null values
+- Label Encoder
