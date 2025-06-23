@@ -49,4 +49,4 @@ List:
 **11) Big Mart Sales Prediction**
 - XGBoostRegressor
 - Pivot Table
-- Mean, Mode To replace null
+- Mean, Mode To replace null values
