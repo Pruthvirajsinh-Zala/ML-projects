@@ -54,3 +54,4 @@ List:
 
 **12) Wine Quality Prediction**
 - Random Forest Calssifier
+- Catplots & Barplots
