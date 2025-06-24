@@ -51,3 +51,6 @@ List:
 - Pivot Table
 - Mean, Mode To replace null values
 - Label Encoder
+
+**12) Wine Quality Prediction**
+- Random Forest Calssifier
