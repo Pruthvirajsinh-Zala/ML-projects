@@ -56,3 +56,4 @@ List:
 - Random Forest Calssifier
 - Catplots & Barplots
 - Correlation
+- Heatmaps
