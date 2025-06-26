@@ -57,3 +57,6 @@ List:
 - Catplots & Barplots
 - Correlation
 - Heatmaps
+
+**13) Customer Segmentation**
+- 
