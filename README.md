@@ -59,4 +59,4 @@ List:
 - Heatmaps
 
 **13) Customer Segmentation**
-- 
+- K-Means Clustering
