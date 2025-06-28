@@ -60,3 +60,4 @@ List:
 
 **13) Customer Segmentation**
 - K-Means Clustering
+- Elbow Graphs
