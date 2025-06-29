@@ -61,3 +61,6 @@ List:
 **13) Customer Segmentation**
 - K-Means Clustering
 - Elbow Graphs
+
+**14) Parkinson's Diseases Detection**
+- Standard Scalar
