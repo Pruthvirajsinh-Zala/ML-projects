@@ -65,3 +65,4 @@ List:
 **14) Parkinson's Diseases Detection**
 - Standard Scalar
 - SVMs
+
