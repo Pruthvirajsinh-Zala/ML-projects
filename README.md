@@ -67,4 +67,5 @@ List:
 - SVMs
 
 **15) Titanic Survival Prediction**
+- Logistic Regression
 
