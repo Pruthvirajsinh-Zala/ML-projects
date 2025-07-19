@@ -68,4 +68,5 @@ List:
 
 **15) Titanic Survival Prediction**
 - Logistic Regression
+- Countplots
 
