@@ -66,3 +66,5 @@ List:
 - Standard Scalar
 - SVMs
 
+**15) Titanic Survival Prediction**
+
