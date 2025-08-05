@@ -72,4 +72,5 @@ List:
 
 **16) Calories Burnt Prediction**
 - XGBoost 
+- Countplots & Distplots
 
