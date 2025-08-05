@@ -70,3 +70,6 @@ List:
 - Logistic Regression
 - Countplots
 
+**16) Calories Burnt Prediction**
+- XGBoost 
+
