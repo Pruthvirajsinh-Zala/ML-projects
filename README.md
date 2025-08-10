@@ -74,4 +74,6 @@ List:
 - XGBoost 
 - Countplots & Distplots
 
-
+**17) Spam Mail Prediction**
+- Logistic Regression
+- TfIdf Vectorizer
