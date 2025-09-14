@@ -90,7 +90,6 @@ This portfolio represents my journey in machine learning, featuring projects tha
 - Data preprocessing
 - Medical feature analysis
 
-
 ### 5. Loan Status Prediction
 **📁 Directory**: `Loan Status Prediction/`
 
